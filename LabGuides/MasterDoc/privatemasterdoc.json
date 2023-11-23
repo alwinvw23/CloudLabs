@@ -1,0 +1,17 @@
+[
+    {
+      "Name": "VC&G 101A",
+      "Language": "English",
+      "BaseURL": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/ricardo7364/cloudlabs/",
+      "Files": [
+        {
+          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/ricardo7364/cloudlabs/main/02-conceptual-knowledge/Instructions/01-architecture-defender-hands-on-page-1.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/ricardo7364/cloudlabs/main/02-conceptual-knowledge/Instructions/01-architecture-defender-hands-on-page-2.md",
+          "Order": 1
+        }          
+      ]
+    }
+  ]
